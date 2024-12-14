@@ -6,9 +6,9 @@ En papel
 
 ## Estudiante
 
-**Nombre y apellido:** -completar acá-
+**Nombre y apellido:** Felipe Denza
 
-**Número de legajo:** -completar acá-
+**Número de legajo:** 213.647-8
 
 ## Que hacer cuando terminan el parcial
 
