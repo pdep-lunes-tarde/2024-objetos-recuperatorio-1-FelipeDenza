@@ -8,6 +8,8 @@ class Mago{
     var tipoMago // TipoObjeto
     var energiaMagica
 
+    method queEs()= "mago"
+
 
     method energiaMagica()= energiaMagica
 
