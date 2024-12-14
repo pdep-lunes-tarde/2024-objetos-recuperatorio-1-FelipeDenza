@@ -1,4 +1,5 @@
-import tp.*
+import magos.*
+import objetosMagicos.*
 
 test "Test de ejemplo" {
 		assert.equals(4, 2 + 2)
